@@ -35,7 +35,7 @@
     <td align="center" width="16%"><strong>Databases</strong></td>
     <td align="center" width="16%"><strong>Data</strong></td>
     <td align="center" width="16%"><strong>Cloud</strong></td>
-    <td align="center" width="16%"><strong>AI</strong></td>
+    <td align="center" width="16%"><strong>AI/ML</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -43,11 +43,20 @@
       <a href="https://getbootstrap.com/"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50"></a>
       <a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"></a>
       <a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"></a>
+      <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"></a>
+      <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50"></a>
+      <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"></a>
+      <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"></a>
     </td>
     <td align="center">
       <a href="https://www.djangoproject.com/"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="50"></a>
       <a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"></a>
       <a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50"></a>
+      <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"></a>
+      <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50"></a>
+      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"></a>
+      <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"></a>
+      <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"></a>
     </td>
     <td align="center">
       <a href="https://www.mongodb.com/"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"></a>
@@ -64,12 +73,16 @@
       <a href="https://azure.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="50"></a>
     </td>
     <td align="center">
-      <!-- Add AI-related skills here -->
+      <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"></a>
+      <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"></a>
+      <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"></a>
+      <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"></a>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 
