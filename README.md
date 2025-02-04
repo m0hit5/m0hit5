@@ -79,11 +79,9 @@
       </a>
       <a href="https://cdnlogo.com/logo/pandas_134717.html"><img src="https://static.cdnlogo.com/logos/p/65/pandas.svg" height="50"></a>
       <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"></a>
-      <a href="https://matplotlib.org/"><img src="https://matplotlib.org/_static/logo2.svg" height="50"></a>
       <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50"></a>
       <a href="https://cdnlogo.com/logo/gemini_135065.html"><img src="https://static.cdnlogo.com/logos/g/69/google-gemini.svg" height="50"></a>
 
-    </td>
   </tr>
 </table>
 
