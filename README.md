@@ -77,7 +77,7 @@
       <a href="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.svg">
         <img src="https://github.com/mwaskom/seaborn/raw/master/doc/_static/logo-mark-lightbg.svg" height="50">
       </a>
-      <a href="https://cdnlogo.com/logo/panda_132965.html"><img src="https://static.cdnlogo.com/logos/p/44/panda.svg" height="50"></a>
+      <a href="https://cdnlogo.com/logo/pandas_134717.html"><img src="https://static.cdnlogo.com/logos/p/65/pandas.svg"></a>
       <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"></a>
       <a href="https://matplotlib.org/"><img src="https://matplotlib.org/_static/logo2.svg" height="50"></a>
       <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_static/logo-wide.svg" height="50"></a>
