@@ -69,7 +69,7 @@
       <a href="https://cdnlogo.com/logo/numpy_88404.html"><img src="https://static.cdnlogo.com/logos/n/81/numpy.svg" height="50"></a>
     </td>
     <td align="center">
-      <a href="https://aws.amazon.com/"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50"></a>
+<a href="https://cdnlogo.com/logo/amazon-web-services_59463.html"><img src="https://static.cdnlogo.com/logos/a/46/amazon-web-services.svg" height="50"></a>
       <a href="https://cloud.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" height="50"></a>
       <a href="https://azure.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="50"></a>
     </td>
