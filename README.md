@@ -1,4 +1,4 @@
-## <div align="center">👋 Hi ! I'm Mohit Chachlani, Tech Savvy 👨‍💻</div>  
+## <div align="center">👋 Hi ! I'm Mohit Chachlani, a Tech Savvy 👨‍💻</div>  
   
 
 #### <div align="center">Skilled in Full Stack Development 🚀, Data 📈 , AI / ML 🤖 & Cloud ☁️</div>  
