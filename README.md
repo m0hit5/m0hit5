@@ -4,7 +4,7 @@
 #### <div align="center">Skilled in Full Stack Development 🚀, Data 📈 , AI / ML 🤖 & Cloud ☁️</div>  
   
 
-- 🔭 I’m currently working on a portfolio website  
+- 🔭 I’m currently working on Mobile App Development
   
 
 - 🌱 I’m currently learning Gen AI, SpringBoot and DevOps  
